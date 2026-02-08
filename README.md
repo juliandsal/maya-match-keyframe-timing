@@ -1,6 +1,6 @@
 # Maya Match Keyframe Timing
 
-A PyMEL script for Autodesk Maya that allows you to bake target controls to match the timing of a reference control’s keyframes. This ensures consistent animation timing across multiple objects, simplifying workflows in animation, rigging, and VR/CG research projects.
+A PyMEL script for Autodesk Maya that allows you to bake target controls to match the timing of a reference control’s keyframes. This ensures consistent animation timing across multiple objects.
 
 ---
 
